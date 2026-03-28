@@ -2,7 +2,7 @@
  * FRED — VL53L8CX 8×8 ToF reader
  */
 //% weight=100 color=#00AEEF icon=""
-namespace FRED {
+namespace FRED_VL53L8CX {
 
     const VL53L8CX_ADDR = 0x52 >> 1   // 7‑bit address (0x29)
 
