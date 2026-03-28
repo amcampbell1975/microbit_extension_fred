@@ -1,0 +1,13 @@
+{
+    "name": "FRED",
+    "version": "0.0.1",
+    "description": "Friendly Register Extraction Device — simple I2C register reader",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
